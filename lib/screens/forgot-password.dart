@@ -44,7 +44,7 @@ class ForgotPassword extends StatelessWidget {
                     Container(
                       width: size.width * 0.8,
                       child: Text(
-                        'Enter your email address we will send instruction to reset your password',
+                        'Enter your email  we will send instruction to reset your password',
                         style: kBodyText,
                       ),
                     ),
